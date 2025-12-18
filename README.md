@@ -31,7 +31,7 @@ The main objectives of this project are to:
 * **Number of Columns:** 10
 
 🔗 **Dataset Link:**
-[https://www.kaggle.com/datasets/saketkshirsagar1/zudio-sales-test-dataset](https://www.kaggle.com/datasets/saketkshirsagar1/zudio-sales-test-dataset)
+https://www.kaggle.com/datasets/saketkshirsagar1/zudio-sales-test-dataset
 
 The dataset contains transactional sales data including product categories, quantity sold, sales amount, date information, store/location details, and customer-related attributes.
 
